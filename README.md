@@ -1,9 +1,20 @@
 | DEFINITION   | NCBI ACCESSION    ID |
 | :---: | :---: |
-|  Bat coronavirus BM48-31/BGR/2008 | GU190215.1 | 
-| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019 | MT019529.1 | 
+| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019  | MT019529.1 | 
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV486/2020  | MT371050.1 | 
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV91/2020   | MT371049.1 | 
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV53/2020   | MT371048.1 | 
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV38/2020   | MT371047.1 | 
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/KDU9116/2021 | MZ801830.1 | 
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/KDU9114/2021 | OK035181.1 | 
 
 <br></br>
+
+
+## Biopython
+
+[Pairwise sequence alignment using a dynamic programming algorithm](https://biopython.org/docs/1.78/api/Bio.pairwise2.html)
+
 <br></br>
 
 ## Schematic representation of the genome organization and functional domains of S protein for SARS-CoV and MERS-CoV. 
