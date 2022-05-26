@@ -1,5 +1,5 @@
 | DEFINITION   | NCBI ACCESSION    ID |
-| :---: | :---: |
+| :--- | :--- |
 | Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019  | MT019529.1 | 
 | Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV486/2020  | MT371050.1 | 
 | Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV91/2020   | MT371049.1 | 
