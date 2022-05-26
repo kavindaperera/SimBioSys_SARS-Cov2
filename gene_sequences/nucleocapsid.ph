@@ -1,0 +1,10 @@
+(
+(
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_MT019529.1_-:0.01442,
+Bat-coronavirus-RaTG13-_MN996532.1_-:0.01654)
+:0.04700,
+(
+BtRs-BetaCoV/GX2013-_KJ473815.1_-:0.01350,
+Bat-SARS-coronavirus-HKU3-12-_GQ153547.1_-:0.01809)
+:0.04335,
+Bat-coronavirus-BM48-31/BGR/2008-_GU190215.1_-:0.16015);
