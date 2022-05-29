@@ -1,5 +1,30 @@
 | DEFINITION   | NCBI ACCESSION    ID |
 | :--- | :--- |
+| Bat coronavirus RaTG13  | MN996532.2 |
+| Pangolin coronavirus isolate PCoV_GX-P2V | MT072864.1 |
+| Pangolin coronavirus isolate PCoV_GX-P1E | MT040334.1 |
+| Middle East respiratory syndrome coronavirus isolate MERS-CoV/KOR/KNIH/002_05_2015 | KT029139.1 |
+| Human coronavirus HKU1 isolate SI17244 | MH940245.1  |
+| Human coronavirus 229E Niigata/01/08 RNA | AB691767.2 |
+| Human coronavirus OC43 | AY391777.1 |
+| Human Coronavirus NL63 | NC_005831.2 |
+| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019 | MT019529.1 |
+| Bat SARS-like coronavirus isolate bat-SL-CoVZXC21 | MG772934.1 |
+| Bat SARS-like coronavirus isolate bat-SL-CoVZC45 | MG772933.1 |
+
+## Variants
+
+| DEFINITION   | NCBI ACCESSION    ID |
+| :--- | :--- |
+| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019 | MT019529.1 |
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/JPN/SARS-CoV-2, B.1.617.2 lineage, Delta variant/2021 | OK091006.1 |
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/NLD/EMC-Omicron-1/2021 | OM287553.1 |
+| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/CAN/NML_Gamma_P2/2021 | OM367886.1 |
+
+## Sri Lankan
+
+| DEFINITION   | NCBI ACCESSION    ID |
+| :--- | :--- |
 | Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019  | MT019529.1 | 
 | Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV486/2020  | MT371050.1 | 
 | Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/human/LKA/COV91/2020   | MT371049.1 | 
