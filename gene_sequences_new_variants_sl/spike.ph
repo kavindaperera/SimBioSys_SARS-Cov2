@@ -1,0 +1,13 @@
+(
+(
+(
+(
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_MT019529.1_-:0,
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_MT371050.1_-:0):0,
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_MT371047.1_-:0):0.000130822,
+(
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_MT371049.1_-:0,
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_MT371048.1_-:0):0.000130822):0.000824331,
+(
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_OK035181.1_-:0,
+Severe-acute-respiratory-syndrome-coronavirus-2-_SARS-CoV-2_-_MZ801830.1_-:0):0.000824331):0.000824331;
